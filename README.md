@@ -1,10 +1,10 @@
-# **FurniTrack - Furniture Management Made Easy 🛋️**
+# ****FurniTrack - Furniture Management Made Easy** 🛋️**
 
 **FurniTrack** is a comprehensive application designed to simplify the management of furniture, inventory, orders, and employees. It also provides detailed performance reports to help individuals and businesses better organize their resources and improve productivity.
 
 ---
 
-## **Key Features:**
+## ***Key Features:***
 
            
 ![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQc594g8OGyHNazlXSqKsM9_Au3QcW-wbEEgAOc0rhZqpSLGkPL)
@@ -16,7 +16,7 @@
 
 ---
 
-## **Installation Guide:**
+## ***Installation Guide:***
 
 To install FurniTrack on different operating systems, follow these steps:
 
@@ -37,7 +37,7 @@ sudo apt-get install furnitrack
 
 ---
 
-## **Collaboration: 🤝**
+## ***Collaboration:* 🤝**
 
   
 
@@ -50,7 +50,7 @@ FurniTrack offers built-in collaboration tools. Here’s a comparison of the ava
 
 ---
 
-## **Reporting:** 📊
+## ***Reporting:*** 📊
 
   
 
@@ -74,7 +74,7 @@ Users can generate detailed reports on sales. Below is an example report in JSON
 }
 ```
 ---
-## **Troubleshooting:** ⚙️
+## ***Troubleshooting*:** ⚙️
 
   
 ![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT30bJ970J60CDsRMBlvrPqG8sc5Jgb9FO0jXdqyH6HrY-oJorm)
@@ -92,7 +92,7 @@ Users can generate detailed reports on sales. Below is an example report in JSON
 
   ---
 
-## **Advanced Usage:** 🚀
+## ***Advanced Usage:*** 🚀
 
 ### **Scripting:**
 
@@ -129,5 +129,5 @@ FurniTrack can integrate with various external applications:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjcwNjIxNjhdfQ==
+eyJoaXN0b3J5IjpbNjEzNjExNTYsLTE1NjcwNjIxNjhdfQ==
 -->
